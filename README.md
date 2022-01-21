@@ -5,6 +5,10 @@
 ![image-2](https://user-images.githubusercontent.com/76439397/150570047-0a53e2d4-bed4-4271-8ad0-c92fdc70145d.jpg)
 ![image-3](https://user-images.githubusercontent.com/76439397/150570054-e8485af1-f0d9-4973-a6c7-515942901b7c.jpg)
 
+# Demonstração do projeto
+
+https://user-images.githubusercontent.com/76439397/150571590-60ff1153-0759-4e9f-9964-9daede9625c9.mp4
+
 # Projeto
 
 Aplicativo utilizado na trilha de React Native do bootcamp Ignite da Rocketseat com o objetivo de estudar sobre alguns conceitos do AsyncStorage. Este aplicativo serve para guardar as senhas dos serviços que o usuário utiliza. Como é utilizado o AsyncStorage, todas as informações serão salvas apenas no dispositivo do usuário.
